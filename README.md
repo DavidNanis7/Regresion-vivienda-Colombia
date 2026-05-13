@@ -22,13 +22,13 @@ Clona este repositorio.
 
 pip install pandas scikit-learn matplotlib
 
-archivo principa
+archivo principal
 
 python mi_regresion.py
     ```
 
 ## 📈 Resultados
-El modelo genera una **línea de tendencia** que permite estimar precios. Por ejemplo, según los datos entrenados, un apartamento de **70m²** tiene un valor estimado cercano a los **300 millones de COP**[cite: 1].
+El modelo genera una **línea de tendencia** que permite estimar precios. Por ejemplo, según los datos entrenados, un apartamento de **70m²** tiene un valor estimado cercano a los **300 millones de COP**
 
 ## 📄 Documentación Adicional
 En este repositorio encontrarás el archivo `Trabajo_Regresion_Inmobiliaria_Colombia.pdf`, 
